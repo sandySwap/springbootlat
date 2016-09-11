@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LathibernateApplication {
 
 	public static void main(String[] args) {
-		System.out.println("coba dit");
+		System.out.println("coba rubah lagi");
 		SpringApplication.run(LathibernateApplication.class, args);
 	}
 }
